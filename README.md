@@ -1,5 +1,3 @@
-# opensource
-Open Source Intelligence
 git push heroku main
 heroku ps:scale web=3 queue=2
 heroku ps
